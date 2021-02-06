@@ -21,3 +21,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Deploying the App
 
 This app will be deployed using Heroku
+
+![Alt text](note taker app.png)
