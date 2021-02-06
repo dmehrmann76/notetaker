@@ -21,3 +21,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Deploying the App
 
 This app will be deployed using Heroku
+
+![Alt text](https://github.com/dmehrmann76/notetaker/blob/master/note%20taker%20app.png)

@@ -4,9 +4,15 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
 
     "start": "node server.js",
 
+=======
+    
+    "start": "node server.js",
+    
+>>>>>>> bfb646d52961a757c0476920148bf7685b83614b
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
